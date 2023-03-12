@@ -37,17 +37,15 @@ The goal for this playbook is for us (extremeways#0103 and ZombiMigz#6758) to pr
 
 # Intro to College {#intro-to-college}
 
-    Being in college is daunting. All of the freedom and responsibility is yours to balance. Things are moving at a fast pace, and with assignments and responsibilities, it is stressful to juggle everything. Regardless of wherever you are in your journey at Cal Poly Pomona/college, these tips will help you succeed in getting an internship/progressing in your career. If you are a freshman, it DOES NOT mean you have a lot of time. You seriously don’t. Do not get complacent - 4 years goes by very quickly. Implementing this playbook early will give you a great advantage and set you up for future success. If you are a senior, that means you have much less time. Following this playbook is imperative in landing a new grad role.
+Being in college is daunting. All of the freedom and responsibility is yours to balance. Things are moving at a fast pace, and with assignments and responsibilities, it is stressful to juggle everything. Regardless of wherever you are in your journey at Cal Poly Pomona/college, these tips will help you succeed in getting an internship/progressing in your career. If you are a freshman, it DOES NOT mean you have a lot of time. You seriously don’t. Do not get complacent - 4 years goes by very quickly. Implementing this playbook early will give you a great advantage and set you up for future success. If you are a senior, that means you have much less time. Following this playbook is imperative in landing a new grad role.
 
+First off, in order to survive, you will have to learn how to prioritize and manage your time effectively. You will also need to ensure that you are mentally well for the journey ahead. This means you will have to either make time or find time to fulfill your responsibilities. Remember that you are a human, and not a robot; you cannot work 24/7 - you will burn out and things will quickly spiral out of control. Also remember that college is a marathon, not a sprint. You need to have a way to manage your stress, whether it be video games, physical activity, etc. You are a student first - ensuring that you graduate with a good GPA is one of the most important things. Create a flexible schedule that allows you to get your work done and still have some time for yourself. Once you have a SUSTAINABLE and HEALTHY schedule, you can move on.
 
-    First off, in order to survive, you will have to learn how to prioritize and manage your time effectively. You will also need to ensure that you are mentally well for the journey ahead. This means you will have to either make time or find time to fulfill your responsibilities. Remember that you are a human, and not a robot; you cannot work 24/7 - you will burn out and things will quickly spiral out of control. Also remember that college is a marathon, not a sprint. You need to have a way to manage your stress, whether it be video games, physical activity, etc. You are a student first - ensuring that you graduate with a good GPA is one of the most important things. Create a flexible schedule that allows you to get your work done and still have some time for yourself. Once you have a SUSTAINABLE and HEALTHY schedule, you can move on.
-
-
-    Before starting, we want you to keep a couple things in mind. Most importantly, ask yourself **“Why?” every step of the way. **Why does it make sense to pursue an internship (or whatever goal you have)? What do you gain from it? For every question, ask yourself “Why?” 5 times. Once you can honestly answer “Why?” each time, you can work backwards and map out a clear road to progress. Make sure that you can answer the 5 W’s (who, what, when, why, where) and how you can achieve each step. Answer each question truthfully, because you don’t want to end up in a role that you don’t enjoy.
+Before starting, we want you to keep a couple things in mind. Most importantly, ask yourself **“Why?” every step of the way. **Why does it make sense to pursue an internship (or whatever goal you have)? What do you gain from it? For every question, ask yourself “Why?” 5 times. Once you can honestly answer “Why?” each time, you can work backwards and map out a clear road to progress. Make sure that you can answer the 5 W’s (who, what, when, why, where) and how you can achieve each step. Answer each question truthfully, because you don’t want to end up in a role that you don’t enjoy.
 
 # Course Planning {#course-planning}
 
-    Course planning is a somewhat complicated process. My recommendation is to do your research the summer before or during your first semester. Once you’ve done your planning you shouldn’t have to make any major changes in the future. Note that this applies to all majors, not just CS.
+Course planning is a somewhat complicated process. My recommendation is to do your research the summer before or during your first semester. Once you’ve done your planning you shouldn’t have to make any major changes in the future. Note that this applies to all majors, not just CS.
 
 ## Template {#template}
 
@@ -202,10 +200,9 @@ Graduate Level - 5000/6000 level courses \
 
 ## Which courses do I need to take? {#which-courses-do-i-need-to-take}
 
-    Every academic year has a different set of required courses. When searching for your requirements, you need to make sure the selected academic year is correct. We’ll try to update this list as often as possible, but otherwise refer to: [https://catalog.cpp.edu/](https://catalog.cpp.edu/)
+Every academic year has a different set of required courses. When searching for your requirements, you need to make sure the selected academic year is correct. We’ll try to update this list as often as possible, but otherwise refer to: [https://catalog.cpp.edu/](https://catalog.cpp.edu/)
 
-
-    2022-2023: [CS Courses](https://catalog.cpp.edu/preview_program.php?catoid=61&poid=15916&returnto=4876) [General Education](https://catalog.cpp.edu/preview_program.php?catoid=61&poid=15936) \
+2022-2023: [CS Courses](https://catalog.cpp.edu/preview_program.php?catoid=61&poid=15916&returnto=4876) [General Education](https://catalog.cpp.edu/preview_program.php?catoid=61&poid=15936) \
 
 2021-2022: [CS Courses](https://catalog.cpp.edu/preview_program.php?catoid=57&poid=14892&returnto=4359) [General Education](https://catalog.cpp.edu/preview_program.php?catoid=57&poid=14912)
 
@@ -215,7 +212,7 @@ There are 3 different sets of courses you will need to take to get your degree.
 
 ### Major Required {#major-required}
 
-    These are courses that every CS major must take. Generally these are the most important ones since you have less flexibility with them.
+These are courses that every CS major must take. Generally these are the most important ones since you have less flexibility with them.
 
 ### Major Electives {#major-electives}
 
@@ -434,12 +431,12 @@ _The above image is a repost from CPP CS discord_
 
 ![alt_text](images/polysec-projects.png "image_tooltip")
 
-        * The above photo is some of the projects available under the PolySec Lab.
-        * What are the benefits of research? It may be your way into a company that you want to work for, especially if the company is funding your research! You gain valuable, hands on experience that can transfer to a full time role! You can list the skills/experiences that you gained on a resume to advance your career! You may also get your project published so that your name is in the scientific community, and this holds weight if you want to go to grad school/research/prove to employers that you have had “X” experience!
-    * To restate the people point, getting involved is a great way to meet new people. Look at all the student clubs on campus - you’ll definitely find your niche if you look hard enough. There’s SWE/CS/cyber clubs on campus that you can actively participate in. You can find people to create projects with and gain real-world experience from and be able to talk about when meeting people or during an interview. Sounds like an untapped goldmine.
-    * You get to be part of a community of like minded people that are all focused on creating something and helping everybody out. Strength in numbers.
+- The above photo is some of the projects available under the PolySec Lab.
+- What are the benefits of research? It may be your way into a company that you want to work for, especially if the company is funding your research! You gain valuable, hands on experience that can transfer to a full time role! You can list the skills/experiences that you gained on a resume to advance your career! You may also get your project published so that your name is in the scientific community, and this holds weight if you want to go to grad school/research/prove to employers that you have had “X” experience!
+- To restate the people point, getting involved is a great way to meet new people. Look at all the student clubs on campus - you’ll definitely find your niche if you look hard enough. There’s SWE/CS/cyber clubs on campus that you can actively participate in. You can find people to create projects with and gain real-world experience from and be able to talk about when meeting people or during an interview. Sounds like an untapped goldmine.
+- You get to be part of a community of like minded people that are all focused on creating something and helping everybody out. Strength in numbers.
 
-- Documentation
+* Documentation
   - You have to document every single thing that you do. Why? Because when you write your resume, you want to have a list of all the experiences that you have had. It’ll make it a LOT easier if you can just read what you did 1 year and 3 weeks ago at “X” location instead of thinking “Hmm, I think I helped out here, but I forgot what impact I had”.
   - A good way to do this is to journal. You can do this in a physical journal or Google Docs, it doesn’t matter. As long as you have something you can read when you need it, it works. It also helps calm you down - writing about your experience that day. You should put what day it is, what you did, where you did it, who you interacted with, etc.
   - You should have a couple different types of journals. At least have a brain dump, a daily one, and a progress one.
@@ -447,52 +444,52 @@ _The above image is a repost from CPP CS discord_
     - Daily: this is in detail. you can put what worked on for that day, anything that you want to get off of your chest. You can get more in detail for each braindump entry here.
     - Progress: this is in detail and specific about one project. Say you’re working on creating a website or an app from scratch. It’s not going to be a one day thing - you’ll need to document this extensively. Every step of the way, you put what you did, what problems you ran into, what you did to resolve it. Little by little, you will have an entire journey. Guess what - by doing this, you’re showing employers that you have toiled on something and actually produced a result. They can go to your website/blog/post and see your progress, how you thought, what skills you acquired, what technology you used along the way. Think about it - this really is a hack to getting a lot more space on your resume. This actually becomes your resume - you can put as much detail on here as you’d like.
   - You should definitely journal at least once every couple of days. Once you don’t write something down, you forget. Can you remember what you did 2 weeks ago today in the afternoon? If not, you’d better start writing.
-- Resume (work in progress)
+* Resume (work in progress)
   - On average, recruiters only spend 15 seconds looking over your resume. That’s not a lot of time to convince somebody that you’re worth hiring, so whatever you put on that resume had better pop out.
   - You should put your internship experience, projects that you’ve made, and skills that you have here. Put the experience at the top - remember you only have 15 seconds and you want the first thing a recruiter sees to be something **RELEVANT to the position**.
   - Here’s a good way to make sure that your points are short and effective: [https://elevenrecruiting.com/create-an-effective-resume-xyz-resume-format/](https://elevenrecruiting.com/create-an-effective-resume-xyz-resume-format/)
   - Here’s an example of a typical resume: [https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs). You can find other resume examples on Overleaf and online.
   - This is your main selling point when you apply to postings - you’ll continually update and revise it over the course of your career, and even while you’re applying. It should be simple and avoids formatting issues/flashy items that may screw up an Applicant Tracking System. Save the nice, flashy, colored ones for in person meets, like handing resumes to recruiters at career fairs.
   - Make sure you have no grammatical errors - spellcheckers/Grammarly exist. Have other people read your resume and see what you have to improve upon.
-- Opportunities at CPP
+* Opportunities at CPP
   - There is absolutely no shortage of opportunities at CPP. If you look hard enough, you’ll probably find whatever it is that you’re looking for, or you’ll find someone that can help point you in the right direction.
   - There’s so many opportunities and clubs here: [https://discord.gg/hNcrYEhqXG](https://discord.gg/hNcrYEhqXG), [https://www.cpp.edu/sci/resources/internships-research-opportunities.shtml](https://www.cpp.edu/sci/resources/internships-research-opportunities.shtml), [https://www.cpp.edu/sci/computer-science/index.shtml](https://www.cpp.edu/sci/computer-science/index.shtml)
   - Have a look on the CPP website - go through every page. Look through the resources tab and department pages. There’s a lot of hidden gems and things you might not even know about.
   - Examples: for cybersecurity, there’s ./script, SWIFT, MISSA, FAST. There’s SWE clubs (CSS, GameDev, SEA). There’s engineering projects that are looking for SWEs, etc.
-- Scholarships
+* Scholarships
   - Scholarships aren’t just limited to CPP. You can (and should) apply to scholarships outside of the school, but here is a big list of ones that are open: [https://www.cpp.edu/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml](https://www.cpp.edu/financial-aid/scholarships/cal-poly-pomona-scholarships.shtml)
   - If you are involved in research, LSAMP/SPIRES research scholarship is available for you.
-- Career Fairs
+* Career Fairs
   - Cal Poly hosts several career fairs each year: [https://www.cpp.edu/career/employer/career_fairs.shtml](https://www.cpp.edu/career/employer/career_fairs.shtml)
   - This is such a great opportunity to meet recruiters face to face and get your foot in the door. Come with your printed resume ready, dress presentably (business casual) and be ready to give your best elevator pitch.
   - Do your research and find other career fairs/events where you can hand your resume to somebody. CPP isn’t the only option.
-- Believe in yourself
+* Believe in yourself
   - Don’t ever give up. Don’t listen to anyone telling you that you can’t do it, or that you aren’t good enough, or any other reason. You have to be the one to tell yourself to get up and go after it. You can’t wait for the perfect opportunity to fall into your lap, or wait for a good time, or any other excuse. If you keep waiting, the opportunity will pass by. We believe that if you REALLY want something, you’ll find a way to get it. How much do you really want it? Do you only want it a little, or do you want it so much that you’ll create a detailed plan and actually execute it? If the answer is the latter, you’ll be able to persevere through all of the setbacks.
-- Experience trumps all
+* Experience trumps all
   - Experience is king. There is simply no substitute for it. How do you get experience? Through completing internships, undergraduate research, projects on your own time, learning on your own time to get a certification. Notice how something is missing? It’s school work. School work does not count as experience. It is the bare minimum - companies want to see drive, initiative, a willingness to learn. Who would you rather hire? Student A with no experience, only school work, no projects, no involvement, no tech stack. Or student B with a previous internship, with research experience, that has done projects, with soft/hard skills through being a club member/leadership?
-- Applications
+* Applications
   - Send out as many as possible to internship postings, research positions, scholarships, etc. You’re only hurting yourself if you don’t apply because you don’t think you’re ready, you don’t think you have the skills, etc. Cast the net wide and see how many fish you catch. The job hunt is a numbers game - the more you apply, the higher chances you’ll have of getting responses. Expect to send out at least 200+ applications.
   - Apply on as many websites/platforms as you can: on the company website, Indeed, Linkedin, Glassdoor, wherever. Don’t forget to tap into your network so that you can bypass the HR filter and get your resume to the top of the stack.
   - You should also create a spreadsheet of places that you’ve applied to; it keeps track of your current applications and how hard you actually went during the internship cycle.
-- Rejections
+* Rejections
   - You’re going to get a lot of them. Don’t take it personally. You’re competing against 1000’s of people and success is not guaranteed, nor owed. If you see “unfortunately, we are not moving forward” in the email, move on. You tried your best, and that’s all you can really ask for. Move onto the next posting and apply again.
   - There’s a lot to learn from a failure. Your application will go through an applicant tracking system (ATS). It’s a program that’ll scan your resume for keywords, skills, experiences and sum them up. If you are missing stuff, your chances of being contacted will be lowered. That’s simply how it is. Maybe your resume wasn’t parsed well. Maybe you didn’t have the skills to match the job description, or it was auto rejected for some reason. Talk with other people and figure out what you can change on your resume so that next time you get success.
   - Why do companies use an ATS? There are so many applicants that no hiring manager will hand pick your resume and read it. Or will they? Again, knowing the right person/recruiter can make a world of difference in your search for a position.
-- Research
+* Research
   - Undergraduate research is definitely one of the best things that your future self will thank you for. Why? Because it gives you the opportunity to get hands-on experience BEFORE you get the job. Companies don’t want to hire somebody that has no proven track record of being able to learn besides coursework, and then having to train them. If you can get that experience and present it to the employer, you automatically have a great leg up on other applicants.
   - Also, if you can get into undergraduate research, guess what? If you don’t want to hop into industry or you really like academia, getting into grad school is easier. You already know people that will write you letters of recommendation (your professors/advisors), you have the experience (so you don’t jump in blind) and stand out, unlike other undergrads that haven’t done research.
   - What research is available at CPP? The best thing to do is to go straight to the source. Who does research? You do. But who helps you get into it? Professors. Therefore, you need to talk to not only your professors, but professors that you know do research. You can find that out by asking fellow students or walking up to/emailing professors. Ask them what available projects are open, and what your role will be. [https://www.cpp.edu/our-cpp/index.shtml](https://www.cpp.edu/our-cpp/index.shtml)
   - Some professors in the CS Department that do research include: Dr. Mohammad Husain, Dr. Amar Raheja, Dr. Tang.
   - Look at other departments as well. Research often spans multiple disciplines and NGCP (Northrop Grumman Collaboration Project) is a good example. Look at the engineering department and see what they’re up to. [https://www.instagram.com/cpp.ngcp/?hl=en](https://www.instagram.com/cpp.ngcp/?hl=en)
   - Research doesn’t just have to be at CPP. Here’s a great list of institutions that will** PAY YOU** to spend your summer learning at their institution. We highly recommend looking at this link: [https://www.nsf.gov/crssprgm/reu/reu_search.jsp](https://www.nsf.gov/crssprgm/reu/reu_search.jsp)
-- Internships
+* Internships
   - This is the surest way to getting a job after graduation. There’s nothing that can beat experience. If you land one, congratulations! This is your time to dive headfirst into a company and be the best intern they have ever had. Ask ALL of the questions that you have and seek out work to do. If there’s something you don’t understand, find a mentor and fix the issues. You want to be the best intern ever. Why? At this point, you are a liability to the company. They are giving you access and resources to someone that will not really generate revenue (compared to a full time employee). So you have to convince them that you are worth it and that extending a full time offer to you is a great idea. How do you do that? Be a fast learner, a great team player, ask questions, show a willingness to learn.
   - Think of an internship like an extended interview. You get to interview the company, and they get to interview you. You see how working at the company truly is. You’ll be able to find out if you actually enjoy the role that you got, or if you want to pivot to something else. You can see how the company and industry operates, what organizations there are, what projects there are to work on, if you like the people there, etc. The company gets to see if you’re worth bringing back for another internship/full time offer. Therefore, treat this time preciously. Here’s some links to internship postings: [https://github.com/pittcsc/Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships), [https://www.levels.fyi/internships/](https://www.levels.fyi/internships/). There are many others out there, these are just some large ones.
-- Interviews
+* Interviews
   - STAR format: [https://www.themuse.com/advice/star-interview-method](https://www.themuse.com/advice/star-interview-method)
   - Everything on your resume is fair game - you have to know everything that you put on there. You should look at common interview questions and prep you answers to that. Look at it from the interviewers side. If you saw your resume, what questions would you ask? What projects have you worked on requiring technical expertise? What projects have you done with other people?
   - Remember to stay calm and sociable. Get loose - it’s not an interrogation. However, remember that this is a professional meeting and that you’re trying to convince these people that you’re worth hiring.
-- If you’ve followed the above, you should be in great shape. Ideally, you will have accomplished everything on this list, but don’t fret if you haven’t. Again, the purpose of this playbook is to provide you with ways to succeed in your career and it is a long and arduous road to success. You will get there.
+* If you’ve followed the above, you should be in great shape. Ideally, you will have accomplished everything on this list, but don’t fret if you haven’t. Again, the purpose of this playbook is to provide you with ways to succeed in your career and it is a long and arduous road to success. You will get there.
   - Think about it - the more you do, the more you stand out among your competition. Even if you don’t do all of the above and do most of it, you still have a massive leg up over your competition. Imagine you applied to a bunch of internship postings and didn’t get it. At least you are involved in research. At least you have some projects that you have worked on with other people and have that club/community behind you. At least you have a great network of people to ask for help from. At least you have a growth mindset and the grit to see something through. You can always apply to the next posting or next cycle. All of those things are much better than having just coursework or not having anything.
-- Help others out!
+* Help others out!
   - Once you land that position, help other people out! If you learned something from this, teach it to somebody else! Send them this playbook and share your own experience with others! Become a mentor for others! Remember, nobody ever did anything by themselves - it’s impossible. That’s why we should help one another out.
