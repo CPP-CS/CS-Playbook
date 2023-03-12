@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # The Playbook for CS Majors
 
 The goal for this playbook is for us (extremeways#0103 and ZombiMigz#6758) to provide YOU with the advice and guidance to help you succeed in your career. We will try to update this document often, but as always, do your own research. If you have any suggestions please let us know/comment.
